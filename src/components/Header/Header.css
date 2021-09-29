@@ -1,0 +1,24 @@
+.header{
+    height: 100px;
+    width: 100%;
+    background-color: #14141d;
+    margin: 0;
+    margin-bottom: 70px;
+}
+.main-header{
+    background-color: #1E2029;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+
+.main-header h2{
+    padding-bottom: 15px;
+}
+.heading{
+    text-align: center;
+    margin: 0;
+    padding-top: 10px;
+}

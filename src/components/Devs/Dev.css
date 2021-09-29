@@ -1,0 +1,20 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 100px;
+}
+
+.devs-container{
+    margin-left: 100px;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 30px;
+}
+
+.team-formation{
+    margin-left: 100px;
+}
+
+.top-devs-heading{
+    margin-left: 100px;
+}

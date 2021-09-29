@@ -1,0 +1,83 @@
+.card img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.card{
+    /* height: 450px; */
+    height: 450px;
+    width: 300px;
+    background-color: #1E2029;
+    opacity: 1;
+    border-radius: 20px;
+    margin-bottom: 10px;
+    padding: 20px;
+    padding-bottom: 0;
+
+}
+
+.button-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.button-container a{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+}
+
+.regular-btn{
+    background-color: #855AFF;
+    border: 0;
+    border-radius: 8px;
+    height: 45px;
+    width: 160px;
+    color: white;
+    font-weight: 600;
+}
+
+.git-btn{
+    background-color: #191e25;
+    border: 0;
+    border-radius: 8px;
+    height: 47px;
+    width: 135px;    
+}
+.dev-header{
+    display: flex;
+    justify-content: space-between;
+}
+.contrib-style{
+    padding: 5px;
+    background-color: #1dbf73;
+    border: 1px solid black;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+.expert-style{
+    padding: 5px 9px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 500;
+}
+
+hr{
+    border: 1px solid gray;
+}
+
+.regular-btn:hover{
+    box-shadow: 0px 0px 20px rgba(145, 92, 182, 0.904);
+    transition: ease-in 0.1s;
+    cursor: pointer;
+}
+.git-btn:hover{
+    transition: ease-in 0.1s;
+    box-shadow: 0 5px 15px rgba(145, 92, 182, 0.904);
+}

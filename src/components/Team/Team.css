@@ -1,0 +1,44 @@
+.team-container{
+    border: 1px solid rgb(43, 43, 43);
+    background-color: #1E2029;
+    border-radius: 20px;
+    width: 400px;
+    height: 525px;
+    overflow: auto;
+    position: fixed;
+}
+
+.team-container p{
+    padding: 0px 10px 0px;
+}
+
+.selected-devs{
+    display: flex;
+    height: 100px;
+    width: 380px;
+    margin-top: 4px;
+    border-radius: 20px;
+    border-bottom: 1px solid rgb(78, 78, 78);
+}
+
+.selected-devs img{
+    border-radius: 20px;  
+    margin-right: 20px;
+    height: 100px;
+    width: 100px;
+}
+
+.check-circle{
+    color: rgb(0, 255, 0);
+}
+
+.expert-style2{
+    padding: 2px 4px;
+    border: 1px solid lightgray;
+    border-radius: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: 400;
+}
+.selected-devs p{
+    padding: 0;
+}
