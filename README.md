@@ -1,4 +1,4 @@
---------------------------------------------------------------
+
   
     *THIS WEBSITE WILL HELP YOU BUILD YOUR DREAM PROJECT TEAM*
 
@@ -12,5 +12,5 @@
 
 	Live Server: https://buildteam-storpa26.netlify.app/
 
----------------------------------------------------------------
+
     
